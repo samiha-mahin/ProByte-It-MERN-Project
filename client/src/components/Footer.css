@@ -1,0 +1,11 @@
+.footer {
+    background-color: var( --btn-color );
+    text-align: center;
+    height: 10rem;
+    padding-top: 3%;
+    & h2 {
+     color: #fff;
+
+    }
+
+}
